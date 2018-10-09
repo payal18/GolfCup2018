@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>GOLF CUP</title>
+    <meta name="description" content="iim-shillong,bls-iims,business leadership summit,bls, iimshillong, iim Shillong, iims, iim shillong">
+    <meta name="keywords" content="iim-shillong,bls,iims,busiess leadership,summit, iimshillong, iim Shillong, iims, iim shillong">
+    <meta name="author" content="iims, iimshillong, bls">
+<meta name="google-site-verification" content="zdE2-XEei3M_bz723r2lUkV9IAuGjeFNkCb5Pv2NkO0" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124253067-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124253067-1');
+</script>
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+
+</head>
+
+
+<body id="top">
+  <div id="myModal" class="modal">
+
+    <div class="modal-content">
+      <div class="close">&times;&nbsp;&nbsp;&nbsp;</div>
+      <div id="pop-window-head" style="height:57%"></div>
+      <br><br>
+      <h3 style="color:white;font-family:Gill, Helvetica, sans-serif">14th - 16th September 2018</h3>
+<!--       <div id="clockdiv">
+  <div>
+    <span id="days" class="days"></span>
+    <div class="smalltext">Days</div>
+  </div>
+  <div>
+    <span id="hours" class="hours"></span>
+    <div class="smalltext">Hours</div>
+  </div>
+  <div>
+    <span id="mins" class="minutes"></span>
+    <div class="smalltext">Minutes</div>
+  </div>
+  <div>
+    <span id="secs" class="seconds"></span>
+    <div class="smalltext">Seconds</div>
+  </div>
+</div> -->
+    </div>
+  </div>
+
+    <!-- preloader
+    ================================================== -->
+    <div id="preloader">
+        <div id="loader">
+            <img src="images/ab.gif" alt="Loading" />
+        </div>
+    </div>
+
+
+    <!-- header
+    ================================================== -->
+    <header class="s-header">
+
+        <div class="row">
+
+            <div class="header-logo">
+                <a class="site-logo" href="index.html"><img src="images/bls_logo.png" alt="bls_logo"></a>
+            </div>
+
+            <nav class="header-nav-wrap">
+                <ul class="header-nav">
+                    <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
+                    <li><a class="smoothscroll"  href="#about" title="about">About Us</a></li>
+                    <li><a class="smoothscroll"  href="#services" title="services">Events</a></li>
+                    <li><a class="smoothscroll"  href="#speakers" title="works">Speakers</a></li>
+                    <li><a class="smoothscroll"  href="#workshop" title="works">workshop</a></li>
+                    <li><a class="smoothscroll"  href="#contact" title="contact">Contact Us</a></li>
+                </ul>
+            </nav> <!-- end header-nav-wrap -->
+
+            <a class="header-menu-toggle" href="#0">
+                <span class="header-menu-icon"></span>
+            </a>
+
+        </div> <!-- end row -->
+
+    </header> <!-- end s-header -->
+
+
+    <!-- home
+    ================================================== -->
+    <section id="home" class="s-home page-hero target-section"
+    data-parallax="scroll" data-image-src="images/hero-bg.jpg"
+    data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+
+        <div class="shadow-overlay"></div>
+
+        <div class="home-content">
+
+            <div class="row home-content__main">
+
+              <h2 style="color:white">
+                IIM Shillong presents<br>
+                Business Leadership Summit '18
+              </h2>
+
+                <div class="home-content__button">
+                    <a href="#about" class="smoothscroll btn btn-animatedbg">
+                        More About Us
+                    </a>
+                </div>
+
+                <div class="home-content__video">
+                    <a class="video-link" href="https://www.youtube.com/embed/eVaZyUhp-m0" data-lity>
+                        <span class="video-icon"></span>
+                        <span class="video-text">Play Video</span>
+                    </a>
+                </div>
+
+            </div> <!-- end home-content__main -->
+
+            <div class="home-content__scroll">
+                <a href="#about" class="scroll-link smoothscroll">
+                    Scroll
+                </a>
+            </div>
+
+        </div> <!-- end home-content -->
+
+        <ul class="home-social">
+            <li>
+                <a target='_blank' href="https://www.facebook.com/IIM.Shillong"><i class="fab fa-facebook-f" aria-hidden="true"></i><span>Facebook</span></a>
+            </li>
+            <li>
+                <a target='_blank' href="https://twitter.com/IIMShillong"><i class="fab fa-twitter" aria-hidden="true"></i><span>Twiiter</span></a>
+            </li>
+            <li>
+                <a target='_blank' href="https://www.instagram.com/iimshillong/"><i class="fab fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+            </li>
+        </ul> <!-- end home-social -->
+
+    </section> <!-- end s-home -->
+
+
+    <!-- about
+    ================================================== -->
+    <section id="about" class="s-about target-section">
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 data-num="01" class="subhead">IIM SHILLONG presents</h3>
+                <h1 class="display-1">
+                Business Leadership Summit 2018
+                </h1>
+                <p class=''>
+                  It is our vision that a strong industry-academia interaction paves the way for building the leaders of tomorrow who can inspire the society & build the future of our nation. To enshrine these ethos, the conclave with the theme “Refine, Define & Design Business in New India” will be a guiding light for our students. We would request you to be a part of this voyage.
+                </p>
+                <p class=''>
+                  IIM Shillong Business Leadership Summit,2018 will be held from 14th - 16th September 2018 within the premises of our institute & will witness stalwarts from multiple domains including marketing, finance, consulting, human resource & operations.
+                </p>
+                <p class=''>
+                  Various topics to be covered in the summit by the speakers are as follows :
+                </p>
+                <div class="row services-list block-1-2 block-m-1-2 block-tab-full">
+                    <div class="col-block item-service" data-aos="fade-up">
+                      <h4>Business Finance:</h4>
+                      <p>
+                        <ul style="font-weight:400">
+                          <li>Are financial assets the new gold for middle class ?</li>
+                          <li>The role of finance sector in making India a 10 trillion dollar economy.</li>
+                        </ul>
+                      </p>
+                    </div>
+
+                    <div class="col-block item-service" data-aos="fade-up">
+                        <h4>Human Resources & Business Operations:</h4>
+                        <p>
+                          <ul style="font-weight:400">
+                            <li>HR transforms from an enabling partner to a strategic partner</li>
+                            <li>Rebuilding India with a billion Human Resource</li>
+                            <li>The Emergence of Chameleon customers - Configuring internal operations to non - traditional & dynamic customer preferences</li>
+                          </ul>
+                        </p>
+                    </div>
+
+                    <div class="col-block item-service" data-aos="fade-up">
+                      <h4>Business Consultancy:</h4>
+                      <p>
+                        <ul style="font-weight:400">
+                          <li>How startups are pushing legacy businesses to reinvent themselves?</li>
+                        </ul>
+                      </p>
+                    </div>
+
+                    <div class="col-block item-service" data-aos="fade-up">
+                      <h4>Business Marketing:</h4>
+                      <p>
+                        <ul style="font-weight:400">
+                          <li>Marketing to the burgeoning youth of India</li>
+                          <li>Coming of Age: Digital Marketing in India</li>
+                        </ul>
+                      </p>
+                    </div>
+                </div> <!-- end services-list -->
+            </div>
+        </div>
+
+    </section> <!-- end s-about -->
+
+
+    <!-- services
+    ================================================== -->
+    <section id="services" class="s-services target-section">
+
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 data-num="02" class="subhead">The Events</h3>
+                <h1 class="display-1 display-1--light">
+                 Business Leadership Summit '18 Events
+                </h1>
+                <!-- <p class="lead lead-light">
+                Quia iusto totam facilis ut atque quidem quis maiores iure. Facilis mollitia enim illo sed et totam commodi. Velit a recusandae sequi consequatur est dolorum. Eaque accusantium praesentium ut omnis. Laboriosam reprehenderit commodi assumenda.
+                </p> -->
+            </div>
+        </div>
+
+        <div class="row services-list block-1-3 block-m-1-2 block-tab-full">
+
+            <div class="col-block item-service" data-aos="fade-up">
+              <h4>14 September 2018</h4>
+              <p>
+                <ul style="font-weight:400">
+                  <li>Keynote Address and Inauguration</li>
+                  <li>Are Financial Assets the new gold for Indian Middle Class?</li>
+                  <li>The role of finance sector in making India a 10 trillion dollar economy</li>
+                </ul>
+              </p>
+            </div>
+
+            <div class="col-block item-service" data-aos="fade-up">
+              <h4>15 September 2018</h4>
+              <p>
+                <ul style="font-weight:400">
+                  <li>HR transforms from an enabling partner to a strategic partner</li>
+                  <li>Rebuilding India with a billion Human Resource</li>
+                  <li>Behavioral Operations - Perspective on growing relevance of factoring in behaviors of suppliers, employees and customers in executive decision making</li>
+                </ul>
+              </p>
+            </div>
+
+            <div class="col-block item-service" data-aos="fade-up">
+              <h4>16 September 2018</h4>
+              <p>
+                <ul style="font-weight:400">
+                  <li>How startups are pushing legacy businesses to reinvent themselves?</li>
+                  <li>Marketing to the burgeoning youth of India</li>
+                  <li>Coming of Age: Digital Marketing in India</li>
+                </ul>
+              </p>
+            </div>
+        </div> <!-- end services-list -->
+
+    </section> <!-- end s-services -->
+
+    <!-- works
+    ================================================== -->
+    <section id="speakers" class="s-works target-section">
+
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 data-num="03" class="subhead">the summit speakers</h3>
+                <!-- <h1 class="display-1">
+                Here are some of our favorite projects we have
+                done lately. Feel free to check them out..
+                </h1> -->
+            </div>
+        </div>
+        <div class="flexslider carousel">
+    <ul class="slides">
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Dhirendra Kumar" data-size="1050x700">
+                    <img src="images/portfolio/s1.jpg"
+                         srcset="images/portfolio/s1.jpg, images/portfolio/s1.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Dhirendra Kumar
+                </h3>
+                <p class="item-folio__cat">
+                    Value Research (Founder and Chief Executive)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/dhirendra-kumar-6386ba15/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p>Value Research (Founder and Chief Executive)</p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+        <div class="item-folio__thumb">
+               <a href="images/portfolio/gallery/s2.jpg" class="thumb-link" title="Nishit Shah" data-size="1050x700">
+                   <img src="images/portfolio/s2.jpg"
+                        srcset="images/portfolio/s2.jpg, images/portfolio/s2.jpg 2x" alt="bls speaker">
+               </a>
+           </div>
+           <div class="item-folio__text">
+               <h3 class="item-folio__title">
+                   Nishit Shah
+               </h3>
+               <p class="item-folio__cat">
+                   Infosys BPM (Chief Financial Officer)
+               </p>
+           </div>
+
+           <a target="_blank" href="https://www.linkedin.com/in/nishit-shah-33a6a314/" class="item-folio__project-link" title="Project link">
+               Speaker Profile link
+           </a>
+
+           <div class="item-folio__caption">
+               <p>Infosys BPM (Chief Financial Officer)</p>
+           </div>
+
+       </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+        <div class="item-folio__thumb">
+               <a class="thumb-link" title="Harsha Upadhyaya" data-size="1050x700">
+                   <img src="images/portfolio/s3.jpg"
+                        srcset="images/portfolio/s3.jpg, images/portfolio/s3.jpg 2x" alt="bls speaker">
+               </a>
+           </div>
+           <div class="item-folio__text">
+               <h3 class="item-folio__title">
+                 Harsha Upadhyaya
+               </h3>
+               <p class="item-folio__cat">
+                 Kotak Mahindra Asset Management Co. Ltd. (CIO - Equity & Sr. EVP)
+               </p>
+           </div>
+
+           <a target="_blank" href="https://www.linkedin.com/in/harsha-upadhyaya-cfa-943530129/" class="item-folio__project-link" title="Project link">
+               Speaker Profile link
+           </a>
+
+           <div class="item-folio__caption">
+               <p>Infosys BPM (Chief Financial Officer)</p>
+           </div>
+
+       </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Ranjeev Lahkar" data-size="1050x700">
+                    <img src="images/portfolio/s4.jpg"
+                         srcset="images/portfolio/s4.jpg, images/portfolio/s4.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+              <h3 class="item-folio__title">
+                  Ranjeev Lahkar
+              </h3>
+              <p class="item-folio__cat">
+                Head HR, India (Colgate Global Business Services, Colgate Palmolive)
+              </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/ranjeevlahkar/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Vivek Jain" data-size="1050x700">
+                    <img src="images/portfolio/s5.jpg"
+                         srcset="images/portfolio/s5.jpg, images/portfolio/s5.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Vivek Jain
+                </h3>
+                <p class="item-folio__cat">
+                    Kotak Mahindra Bank (Executive Vice President & Head of HR)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/vivek-jain-4682758/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Rajeev Yadav" data-size="1050x700">
+                    <img src="images/portfolio/s6.jpg"
+                         srcset="images/portfolio/s6.jpg, images/portfolio/s6.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Rajeev Yadav
+                </h3>
+                <p class="item-folio__cat">
+                    Welspun Corp Ltd. (CHRO)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/rajeev-yadav-785a1913/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Anand Singh" data-size="1050x700">
+                    <img src="images/portfolio/s7.jpg"
+                         srcset="images/portfolio/s7.jpg, images/portfolio/s7.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Anand Singh
+                </h3>
+                <p class="item-folio__cat">
+                    Freudenburg Filtration Technologies India Pvt. Ltd. (Senior Vice President)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/anand-singh-b1a38a21/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Vijay Kadu" data-size="1050x700">
+                    <img src="images/portfolio/s8.jpg"
+                         srcset="images/portfolio/s8.jpg, images/portfolio/s8.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Vijay Kadu
+                </h3>
+                <p class="item-folio__cat">
+                    Business Standard (Vice President - Sales)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/vijaykadu/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Kapil Arora" data-size="1050x700">
+                    <img src="images/portfolio/s9.jpg"
+                         srcset="images/portfolio/s9.jpg, images/portfolio/s9.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Kapil Arora
+                </h3>
+                <p class="item-folio__cat">
+                    Ogilvy Group Companies (President - North)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/talktokapil/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+      <div class="col-block item-folio" data-aos="fade-up">
+         <div class="item-folio__thumb">
+                <a class="thumb-link" title="Ashok Pareek" data-size="1050x700">
+                    <img src="images/portfolio/s10.jpg"
+                         srcset="images/portfolio/s10.jpg, images/portfolio/s10.jpg 2x" alt="bls speaker">
+                </a>
+            </div>
+            <div class="item-folio__text">
+                <h3 class="item-folio__title">
+                    Ashok Pareek
+                </h3>
+                <p class="item-folio__cat">
+                    Deutsche Bank (Vice President- Source to Pay, Global Business Services)
+                </p>
+            </div>
+
+            <a target="_blank" href="https://www.linkedin.com/in/ashok-pareek-7869085/" class="item-folio__project-link" title="Project link">
+                Speaker Profile link
+            </a>
+
+            <div class="item-folio__caption">
+                <p></p>
+            </div>
+
+        </div>
+    </li>
+    <li>
+	<div class="col-block item-folio" data-aos="fade-up">
+		<div class="item-folio__thumb">
+			<a class="thumb-link" title="Rajesh Hurkat" data-size="1050x700">
+				<img src="images/portfolio/s11.jpg" srcset="images/portfolio/s11.jpg, images/portfolio/s11.jpg 2x" alt="bls speaker">
+				</a>
+			</div>
+			<div class="item-folio__text">
+				<h3 class="item-folio__title">Rajesh Hurkat</h3>
+				<p class="item-folio__cat">Mattel Global Emerging Markets (Head HR - Mattel India & South East Asia)</p>
+			</div>
+			<a target="_blank" href="https://www.linkedin.com/in/rajesh-hurkat-15969010/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+			<div class="item-folio__caption">
+				<p></p>
+			</div>
+		</div>
+	</li>
+	<li>
+		<div class="col-block item-folio" data-aos="fade-up">
+			<div class="item-folio__thumb">
+				<a class="thumb-link" title="Gaurav Mehta" data-size="1050x700">
+					<img src="images/portfolio/s12.jpg" srcset="images/portfolio/s12.jpg, images/portfolio/s12.jpg 2x" alt="bls speaker">
+					</a>
+				</div>
+				<div class="item-folio__text">
+					<h3 class="item-folio__title">Gaurav Mehta</h3>
+					<p class="item-folio__cat">GirnarSoft (Chief Marketing Officer)</p>
+				</div>
+				<a target="_blank" href="https://www.linkedin.com/in/gaurav-mehta-7a85234/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+				<div class="item-folio__caption">
+					<p></p>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="col-block item-folio" data-aos="fade-up">
+				<div class="item-folio__thumb">
+					<a class="thumb-link" title="Rashmi Patra" data-size="1050x700">
+						<img src="images/portfolio/s13.jpg" srcset="images/portfolio/s13.jpg, images/portfolio/s13.jpg 2x" alt="bls speaker">
+						</a>
+					</div>
+					<div class="item-folio__text">
+						<h3 class="item-folio__title">Rashmi Patra</h3>
+						<p class="item-folio__cat">Novartis (Head - Technical Operations, India)</p>
+					</div>
+					<a target="_blank" href="https://www.linkedin.com/in/rashmi-ranjan-patra-9a5b0557/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+					<div class="item-folio__caption">
+						<p></p>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="col-block item-folio" data-aos="fade-up">
+					<div class="item-folio__thumb">
+						<a class="thumb-link" title="Vikas Pawar" data-size="1050x700">
+							<img src="images/portfolio/s14.jpg" srcset="images/portfolio/s14.jpg, images/portfolio/s14.jpg 2x" alt="bls speaker">
+							</a>
+						</div>
+						<div class="item-folio__text">
+							<h3 class="item-folio__title">Vikas Pawar</h3>
+							<p class="item-folio__cat">GATI-KWE (Head - Corporate Strategy & Analytics)</p>
+						</div>
+						<a target="_blank" href="https://www.linkedin.com/in/vikasvpawar/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+						<div class="item-folio__caption">
+							<p></p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="col-block item-folio" data-aos="fade-up">
+						<div class="item-folio__thumb">
+							<a class="thumb-link" title="Mihir Modi" data-size="1050x700">
+								<img src="images/portfolio/s15.jpg" srcset="images/portfolio/s15.jpg, images/portfolio/s15.jpg 2x" alt="bls speaker">
+								</a>
+							</div>
+							<div class="item-folio__text">
+								<h3 class="item-folio__title">Mihir Modi</h3>
+								<p class="item-folio__cat">Co-founder – RainShine Entertainment Pvt Ltd & Former CFO and CBO – Zee Entertainment Enterprises Ltd</p>
+							</div>
+							<a target="_blank" href="https://www.linkedin.com/in/mihir-modi-2246b31/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+							<div class="item-folio__caption">
+								<p></p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="col-block item-folio" data-aos="fade-up">
+							<div class="item-folio__thumb">
+								<a class="thumb-link" title="Rajat Tuli" data-size="1050x700">
+									<img src="images/portfolio/s16.jpg" srcset="images/portfolio/s16.jpg, images/portfolio/s16.jpg 2x" alt="bls speaker">
+									</a>
+								</div>
+								<div class="item-folio__text">
+									<h3 class="item-folio__title">Rajat Tuli</h3>
+									<p class="item-folio__cat">Happily Unmarried (Co-Founder)</p>
+								</div>
+								<a target="_blank" href="https://www.linkedin.com/in/rajat-tuli-96172b/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+								<div class="item-folio__caption">
+									<p></p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="col-block item-folio" data-aos="fade-up">
+								<div class="item-folio__thumb">
+									<a class="thumb-link" title="Satyendra Mallik" data-size="1050x700">
+										<img src="images/portfolio/s17.jpg" srcset="images/portfolio/s17.jpg, images/portfolio/s17.jpg 2x" alt="bls speaker">
+										</a>
+									</div>
+									<div class="item-folio__text">
+										<h3 class="item-folio__title">Satyendra Mallik</h3>
+										<p class="item-folio__cat">Intex Technologies (India) Ltd (Group Head - HR)</p>
+									</div>
+									<a target="_blank" href="https://www.linkedin.com/in/satyendra-mallik-2415058/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+									<div class="item-folio__caption">
+										<p></p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="col-block item-folio" data-aos="fade-up">
+									<div class="item-folio__thumb">
+										<a class="thumb-link" title="Sujitesh Das" data-size="1050x700">
+											<img src="images/portfolio/s18.jpg" srcset="images/portfolio/s18.jpg, images/portfolio/s18.jpg 2x" alt="bls speaker">
+											</a>
+										</div>
+										<div class="item-folio__text">
+											<h3 class="item-folio__title">Sujitesh Das</h3>
+											<p class="item-folio__cat">Microland Limited (Vice President - Global Human Resources)</p>
+										</div>
+										<a target="_blank" href="https://www.linkedin.com/in/sujitesh/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+										<div class="item-folio__caption">
+											<p></p>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="col-block item-folio" data-aos="fade-up">
+										<div class="item-folio__thumb">
+											<a class="thumb-link" title="Surinder Kohli" data-size="1050x700">
+												<img src="images/portfolio/s19.jpg" srcset="images/portfolio/s19.jpg, images/portfolio/s19.jpg 2x" alt="bls speaker">
+												</a>
+											</div>
+											<div class="item-folio__text">
+												<h3 class="item-folio__title">Surinder Kohli</h3>
+												<p class="item-folio__cat">Jaipur Rugs (Head - Human Resources)</p>
+											</div>
+											<a target="_blank" href="https://www.linkedin.com/in/kohlisurinder/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+											<div class="item-folio__caption">
+												<p></p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="col-block item-folio" data-aos="fade-up">
+											<div class="item-folio__thumb">
+												<a class="thumb-link" title="Mukesh Tiwari" data-size="1050x700">
+													<img src="images/portfolio/s20.jpg" srcset="images/portfolio/s20.jpg, images/portfolio/s20.jpg 2x" alt="bls speaker">
+													</a>
+												</div>
+												<div class="item-folio__text">
+													<h3 class="item-folio__title">Mukesh Tiwari</h3>
+													<p class="item-folio__cat">Caterpillar Inc. (Head of Talent Acquisition (Asia Pacific))</p>
+												</div>
+												<a target="_blank" href="https://www.linkedin.com/in/mukesh-tiwari-9ba27712/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+												<div class="item-folio__caption">
+													<p></p>
+												</div>
+											</div>
+										</li>
+										<li>
+											<div class="col-block item-folio" data-aos="fade-up">
+												<div class="item-folio__thumb">
+													<a class="thumb-link" title="Dr Haresh Chaturvedi" data-size="1050x700">
+														<img src="images/portfolio/s21.jpg" srcset="images/portfolio/s21.jpg, images/portfolio/s21.jpg 2x" alt="bls speaker">
+														</a>
+													</div>
+													<div class="item-folio__text">
+														<h3 class="item-folio__title">Dr Haresh Chaturvedi</h3>
+														<p class="item-folio__cat">Reliance Industries Limited (Vice President - HR)</p>
+													</div>
+													<a target="_blank" href="https://www.linkedin.com/in/dr-haresh-chaturvedi-55592112/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+													<div class="item-folio__caption">
+														<p></p>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="col-block item-folio" data-aos="fade-up">
+													<div class="item-folio__thumb">
+														<a class="thumb-link" title="Annapurna A" data-size="1050x700">
+															<img src="images/portfolio/s22.jpg" srcset="images/portfolio/s22.jpg, images/portfolio/s22.jpg 2x" alt="bls speaker">
+															</a>
+														</div>
+														<div class="item-folio__text">
+															<h3 class="item-folio__title">Annapurna A</h3>
+															<p class="item-folio__cat">Inspirage (Director - Human Resources)</p>
+														</div>
+														<a target="_blank" href="https://www.linkedin.com/in/annapurna-a-20b62014/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+														<div class="item-folio__caption">
+															<p></p>
+														</div>
+													</div>
+												</li>
+												<li>
+												<div class="col-block item-folio" data-aos="fade-up">
+													<div class="item-folio__thumb">
+														<a class="thumb-link" title="Jyotirmoy Bhattacharya" data-size="1050x700">
+															<img src="images/portfolio/s23.jpg" srcset="images/portfolio/s23.jpg, images/portfolio/s23.jpg 2x" alt="bls speaker">
+															</a>
+														</div>
+														<div class="item-folio__text">
+															<h3 class="item-folio__title">Jyotirmoy Bhattacharya</h3>
+															<p class="item-folio__cat">Mahindra and Mahindra Financial Services-Business Head HR(FES & DMT)</p>
+														</div>
+														<a target="_blank" href="https://www.linkedin.com/in/jyotirmoy-bhattacharya-99209817/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+														<div class="item-folio__caption">
+															<p></p>
+														</div>
+													</div>
+												</li>
+												<li>
+												<div class="col-block item-folio" data-aos="fade-up">
+													<div class="item-folio__thumb">
+														<a class="thumb-link" title="Sanjay Agarwal" data-size="1050x700">
+															<img src="images/portfolio/s26.jpg" srcset="images/portfolio/s26.jpg, images/portfolio/s26.jpg 2x" alt="bls speaker">
+															</a>
+														</div>
+														<div class="item-folio__text">
+															<h3 class="item-folio__title">Sanjay Agarwal</h3>
+															<p class="item-folio__cat">Tata Communications Payment Solutions Ltd. (Chief Financial Officer)</p>
+														</div>
+														<a target="_blank" href="https://www.linkedin.com/in/sanjayagarwal1992/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+														<div class="item-folio__caption">
+															<p></p>
+														</div>
+													</div>
+												</li>
+												<li>
+												<div class="col-block item-folio" data-aos="fade-up">
+													<div class="item-folio__thumb">
+														<a class="thumb-link" title="Ninad Karpe" data-size="1050x700">
+															<img src="images/portfolio/s25.jpg" srcset="images/portfolio/s25.jpg, images/portfolio/s25.jpg 2x" alt="bls speaker">
+															</a>
+														</div>
+														<div class="item-folio__text">
+															<h3 class="item-folio__title">Ninad Karpe</h3>
+															<p class="item-folio__cat">KARPE DIEM Consulting (CEO)</p>
+														</div>
+														<a target="_blank" href="https://www.linkedin.com/in/ninad-karpe-3b6975a/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+														<div class="item-folio__caption">
+															<p></p>
+														</div>
+													</div>
+												</li>
+												<li>
+												<div class="col-block item-folio" data-aos="fade-up">
+													<div class="item-folio__thumb">
+														<a class="thumb-link" title="Suresh Agarwal" data-size="1050x700">
+															<img src="images/portfolio/s24.jpg" srcset="images/portfolio/s24.jpg, images/portfolio/s24.jpg 2x" alt="bls speaker">
+															</a>
+														</div>
+														<div class="item-folio__text">
+															<h3 class="item-folio__title">Suresh Agarwal</h3>
+															<p class="item-folio__cat">BSES Delhi-V.P (Finance)</p>
+														</div>
+														<a target="_blank" href="https://www.linkedin.com/in/suresh-agarwal-a7379934/" class="item-folio__project-link" title="Project link"> Speaker Profile link </a>
+														<div class="item-folio__caption">
+															<p></p>
+														</div>
+													</div>
+												</li>
+    <!-- items mirrored twice, total of 12 -->
+    </ul>
+    </div>
+        <div class="testimonials-wrap" data-aos="fade-up">
+            <div class="row">
+                <div class="col-full testimonials-header">
+                    <h2 class="h1">What People Are Saying...</h2>
+                </div>
+            </div>
+            <div class="row testimonials">
+                <div class="col-full testimonials__slider">
+                    <div class="testimonials__slide">
+                        <span class="testimonials__icon"></span>
+                        <p>The first Business Leadership Summit at IIM Shillong will provide the right ambience for merging of experienced ideas of the Corporate Leaders from over the country  and young, fresh and innovative minds of the aspiring future leaders. The Summit is expected to provide a common platform from where new business ideas may emerge</p>
+                        <div class="testimonials__author">
+                            <img src="images/avatars/p1.png" alt="Author image" class="testimonials__avatar">
+                            <span class="testimonials__name">Prof. Keya Sengupta</span>
+                            <span class="testimonials__position">Director In-charge, Dean (Academics) & Dean (External Relations), IIM Shillong</span>
+                        </div>
+                    </div> <!-- end testimonials__slide -->
+                    <div class="testimonials__slide">
+                        <span class="testimonials__icon"></span>
+                        <p>Leadership Summits are where the rubber hits the road in business education. Students can hear from and network with business stalwarts who put the theories to test. Learning what works and how things work is critical to business students’ evolution towards becoming industry ready talent. I wish great success to this endeavour</p>
+                        <div class="testimonials__author">
+                            <img src="images/avatars/p2.jpeg" alt="Author image" class="testimonials__avatar">
+                            <span class="testimonials__name">Mr. Pradeep Racherla</span>
+                            <span class="testimonials__position">Director, Aspiron Consultants</span>
+                        </div>
+                    </div> <!-- end testimonials__slide -->
+                    <div class="testimonials__slide">
+                        <span class="testimonials__icon"></span>
+                        <p>Business Leadership Summit at IIM Shillong is not merely an event, it’s a laboratory for the osmosis of the vision of leadership from the leaders in the corporate sector to embryonic leaders at the business school</p>
+                        <div class="testimonials__author">
+                            <img src="images/avatars/p3.jpeg" alt="Author image" class="testimonials__avatar">
+                            <span class="testimonials__name">Dr. Rohit Mehtani</span>
+                            <span class="testimonials__position">Professor, Indian Institute of Foreign Trade</span>
+                        </div>
+                    </div> <!-- end testimonials__slide -->
+                    <div class="testimonials__slide">
+                        <span class="testimonials__icon"></span>
+                        <p>A vital part of the learning ecosystems at B-schools, there are various takeaways & learnings from the experiences of industry stalwarts through summits. I am eagerly awaiting the first Business Leadership Summit at IIM Shillong which provides a platform for interaction with seasoned experts and a chance to gain valuable insights on multiple facets of businesses.</p>
+                        <div class="testimonials__author">
+                            <img src="images/avatars/p4.jpeg" alt="Author image" class="testimonials__avatar">
+                            <span class="testimonials__name">Anurag Mittal</span>
+                            <span class="testimonials__position">PGP’17 Participant, IIM Shillong</span>
+                        </div>
+                    </div> <!-- end testimonials__slide -->
+                    <div class="testimonials__slide">
+                        <span class="testimonials__icon"></span>
+                        <p>As an MBA student, there are certain things and experiences that I am seeking. A summit like BLS is exactly what I wanted ,to develop more managerial acumen with the influence of great business leaders. Looking forward to loads of learning.</p>
+                        <div class="testimonials__author">
+                            <img src="images/avatars/p5.jpeg" alt="Author image" class="testimonials__avatar">
+                            <span class="testimonials__name">Sanchari Das</span>
+                            <span class="testimonials__position">PGP’17 Participant, IIM Shillong</span>
+                        </div>
+                    </div>
+
+                </div> <!-- end testimonials__slider -->
+
+            </div> <!-- end testimonials -->
+
+        </div> <!-- end testimonials-wrap -->
+
+
+    </section> <!-- end s-works -->
+    <!-- about
+    ================================================== -->
+    <section id="workshop" class="s-about target-section">
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 data-num="01" class="subhead">Workshop Series</h3>
+                <!-- <h1 class="display-1">
+                Busniess Leadership Summit 2018
+                </h1>
+                <p class=''>
+                  It is our vision that a strong industry-academia interaction paves the way for building the leaders of tomorrow who can inspire the society & build the future of our nation. To enshrine these ethos, the conclave with the theme “Refine, Define & Design Business in New India” will be a guiding light for our students. We would request you to be a part of this voyage.
+                </p>
+                <p class=''>
+                  IIM Shillong Business Leadership Summit,2018 will be held from 14th - 16th September 2018 within the premises of our institute & will witness stalwarts from multiple domains including marketing, finance, consulting, human resource & operations. Your presence will be extremely valuable to us on Day 3 , 16 September.
+                </p>
+                <p class=''>
+                  Various topics to be covered in the summit by the speakers are as follows :
+                </p> -->
+                <div class="row services-list block-1-1 block-m-1-2 block-tab-full">
+                    <div class="col-block" data-aos="fade-up">
+                      <div class="box effect1">
+                        <img src="images/avatars/w1.jpeg" alt="Avatar" style="height: 100px;border-radius:">
+                        <h3>Seven Boats Academy Digital Marketing Workshop</h3>
+                        <p>5th Sep'18</p>
+                        <p>18:30 ~ 21:30 Hrs</p>
+                        <p>Speaker: Mr. Debajyoti Banerjee</p><br>
+                        <a href='https://goo.gl/forms/p8zoQaXd3tJkQkj52' target="_blank" style="width:140px" class="btn btn--primary full-width">Register</a>
+                      </div>
+                      </div>
+                </div> <!-- end services-list -->
+            </div>
+        </div>
+
+    </section> <!-- end s-about -->
+
+    <!-- clients
+    ================================================== -->
+    <section id="clients" class="s-clients target-section">
+
+
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 data-num="04" class="subhead">Our Media Partners</h3>
+                <!-- <h1 class="display-1 display-1--light">Here are some of the brands we have had the priviledge to work with.</h1> -->
+            </div>
+        </div>
+
+        <div class="row clients-list block-1-3 block-tab-1-3 block-mob-1-2" data-aos="fade-up">
+
+            <div class="col-block item-client">
+                <a href="#0">
+                    <img style="min-width:100%" src="images/clients/bs_logo.png" alt="" width="100%">
+                </a>
+            </div>
+            <!-- <div class="col-block item-client">
+                <a href="#0">
+                    <img src="images/clients/icon-dropbox.svg" alt="">
+                </a>
+            </div>
+            <div class="col-block item-client">
+                <a href="#0">
+                    <img src="images/clients/icon-firefox.svg" alt="">
+                </a>
+            </div> -->
+
+        </div> <!-- clients-list -->
+
+    </section> <!-- end s-clients -->
+
+
+    <!-- stats
+    ================================================== -->
+    <section id="stats" class="s-stats">
+
+        <div class="row stats-block block-1-4  block-m-1-2 block-mob-full" data-aos="fade-up">
+
+            <div class="col-block item-stats ">
+                <div class="item-stats__count">26</div>
+                <h5>Speakers</h5>
+            </div>
+            <div class="col-block item-stats">
+                <div class="item-stats__count">8</div>
+                <h5>Panel Discussion</h5>
+            </div>
+            <div class="col-block item-stats">
+                <div class="item-stats__count">5</div>
+                <h5>Domains</h5>
+            </div>
+            <div class="col-block item-stats">
+                <div class="item-stats__count">1</div>
+                <h5>Summit</h5>
+            </div>
+
+        </div> <!-- end stats -->
+
+    </section> <!-- end s-stats -->
+
+
+    <!-- contact
+    ================================================== -->
+    <section id="contact" class="s-contact target-section">
+
+        <div class="row section-header" data-aos="fade-up">
+          <h3 data-num="05" class="subhead">Feel free to contact us</h3>
+            <!-- <div class="col-full">
+                <h1 class="display-1 display-1--light">Feel free to contact us for any queries</h1>
+            </div> -->
+        </div>
+        <div class="row contact-infos">
+            <div class="col-five md-seven tab-full contact-address" data-aos="fade-up">
+                <h4>Where to Find Us</h4>
+                <p style="font-size: 1.8rem;">
+                  Indian Institute of Management Shillong<br>
+                  Mayurbhanj Complex, Nongthymmai<br>
+                  Shillong – 793 014 East Khasi Hills District, Meghalaya, India
+                </p>
+            </div>
+
+            <div class="col-three md-five tab-full contact-social" data-aos="fade-up">
+                <h4>Follow Us</h4>
+                <ul style="font-size: 1.8rem;" class="contact-list">
+                    <li><a href="https://www.facebook.com/IIM.Shillong">Facebook</a></li>
+                    <li><a href="https://twitter.com/IIMShillong">Twitter</a></li>
+                    <li><a href="https://www.instagram.com/iimshillong/">Instagram</a></li>
+                </ul>
+            </div>
+
+            <div class="col-four md-six tab-full contact-number" data-aos="fade-up">
+                <h4>Contact Us</h4>
+
+                <ul style="font-size: 1.8rem;" class="contact-list">
+                    <li><a href="mailto:#0">conclave@iimshillong.ac.in</a></li>
+                    <li><a href="tel:918939241250">+91 8939241250</a></li>
+                    <li><a href="tel:919941044841">+91 9665803127</a></li>
+                </ul>
+            </div>
+
+        </div> <!-- end contact-infos -->
+
+
+        <div class="row contact-bottom">
+          <div style="text-align:center;align-items:center"><img src="images/c_logo.png" width="120px" height="150px"><br><br>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3599.3834911977588!2d91.9021260143222!3d25.55890518372923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507eaa1098fe91%3A0x61ad192c1d01f93c!2sIndian+Institute+of+Management+Shillong!5e0!3m2!1sen!2sin!4v1535629475436" width="50%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+            <!-- <div class="col-five tab-full contact-button" data-aos="fade-up">
+                <a href="#about" class="smoothscroll btn btn-animatedbg">
+                    Let's Talk
+                </a>
+            </div>
+
+            <div class="col-six tab-full contact-subscribe" data-aos="fade-up">
+                <h4>Subscribe</h4>
+
+                <form id="mc-form" class="group mc-form" novalidate="true">
+                    <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
+                    <input type="submit" name="subscribe" value="Subscribe">
+                    <label for="mc-email" class="subscribe-message"></label>
+                </form>
+            </div> -->
+        </div> <!-- end contact-button -->
+
+    </section> <!-- end s-contact -->
+
+
+    <!-- footer
+    ================================================== -->
+    <footer>
+        <div class="row">
+            <div class="col-full cl-copyright">
+                <span>Copyright &copy; BiteSys Club IIMS <script>document.write(new Date().getFullYear());</script> | Template Desgin <a style="color:rgba(255, 255, 255, 0.3)" href="https://colorlib.com" target="_blank">Colorlib</a></span>
+            </div>
+        </div>
+        <div class="cl-go-top">
+            <a class="smoothscroll" title="Back to Top" href="#top"></a>
+        </div>
+    </footer>
+
+
+    <!-- photoswipe background
+    ================================================== -->
+    <div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+
+        <div class="pswp__bg"></div>
+        <div class="pswp__scroll-wrap">
+
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+
+            <div class="pswp__ui pswp__ui--hidden">
+                <div class="pswp__top-bar">
+                    <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title=
+                    "Share"></button> <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" title=
+                    "Zoom in/out"></button>
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div>
+                </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
+                "Next (arrow right)"></button>
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+            </div>
+
+        </div>
+
+    </div><!-- end photoSwipe background -->
+
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script>
+    var modal = document.getElementById('myModal');
+    var span = document.getElementsByClassName("close")[0];
+    $(window).on('load', function() {
+      $('.flexslider').flexslider({
+        animation: "slide",
+        animationLoop: false,
+        itemWidth: 340,
+        itemMargin: 0
+      });
+      var aWhile = 1500; // 5 seconds
+      var doSomethingAfterAWhile = function() {// do something
+        $("#myModal").fadeIn("slow");
+      }
+      setTimeout( doSomethingAfterAWhile, aWhile );
+
+    });
+    span.onclick = function() {
+      modal.style.display = "none";
+    }
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+    // Set the date we're counting down to
+var countDownDate = new Date("Sep 14, 2018 00:00:01").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  days = (days<10)?"0"+days:days;
+  hours = (hours<10)?"0"+hours:hours;
+  minutes = (minutes<10)?"0"+minutes:minutes;
+  seconds = (seconds<10)?"0"+seconds:seconds;
+
+  // Display the result in the element with id="demo"
+  document.getElementById("days").innerHTML = days;
+  document.getElementById("hours").innerHTML = hours;
+  document.getElementById("mins").innerHTML = minutes;
+  document.getElementById("secs").innerHTML = seconds;
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("modal-text").innerHTML = "EXPIRED";
+  }
+}, 1000);
+    </script>
+
+</body>
