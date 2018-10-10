@@ -110,7 +110,7 @@ h2, .h2 {
   height: 8.4rem;
   width: 8.4rem;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: 	#9ACD32;
   background-image: url(../img/icon-play.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
@@ -137,7 +137,7 @@ h2, .h2 {
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: #f50136;
+  background-color: green;
 }
 
 /* Next & previous buttons */
@@ -324,7 +324,7 @@ ul.nosyely_list {
   width: 30px;
   content: " ";
   position: absolute;
-  border-top: solid 3px #f50136;
+  border-top: solid 3px green;
   left: 0;
   top: 0;
 }
@@ -395,7 +395,7 @@ ul.nosyely_list {
   margin-bottom: 7px;
 }
 .icon_list li i {
-  background-color: #f50136;
+  background-color: green;
   display: block;
   border-radius: 50px;
   padding: 7px 0;
@@ -2010,7 +2010,7 @@ footer .footer_box h4.footer_title:before {
   width: 30px;
   content: " ";
   position: absolute;
-  border-top: solid 3px #f50136;
+  border-top: solid 3px #c0f75b;
   left: 0;
   top: 0;
 }
@@ -2027,18 +2027,18 @@ footer .footer_social li {
   margin: 5px;
 }
 footer .footer_social li a {
-  border: solid 1px #f50136;
+  border: solid 1px #c0f75b;
   display: block;
   border-radius: 50px;
   padding: 7px 0;
   font-size: 24px;
-  color: #f50136;
+  color: #c0f75b;
   width: 40px;
   height: 40px;
   text-align: center;
 }
 footer .footer_social li a:hover {
-  background-color: #f50136;
+  background-color: 	#CD853F;
   color: #ffffff;
 }
 footer ul.instagram_list {
@@ -2406,7 +2406,7 @@ Cover
   color: #000000;
 }
 .cover_nav .cover_dots li.active {
-  border: solid 2px #f50136;
+  border: solid 2px green;
 }
 .cover_nav .cover_dots:before {
   content: " ";
@@ -2522,7 +2522,7 @@ Cover
   padding: 13px;
   font-size: 12px;
   font-weight: 600;
-  color: #f50136;
+  color: green;
 }
 
 @media (max-width: 767px) {
@@ -3310,18 +3310,18 @@ Cover
   margin: 5px;
 }
 .social_list li a {
-  border: solid 1px #f50136;
+  border: solid 1px green;
   display: block;
   border-radius: 50px;
   padding: 7px 0;
   font-size: 24px;
-  color: #f50136;
+  color: green;
   width: 40px;
   height: 40px;
   text-align: center;
 }
 .social_list li a:hover {
-  background-color: #f50136;
+  background-color: #CD853F;
   color: #ffffff;
 }
 

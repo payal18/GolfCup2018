@@ -68,6 +68,8 @@ h2, .h2 {
 .home-content__video .video-link {
   display: block;
   text-align: center;
+  margin-right: -210px;
+  margin-top: 125px;
   width: 13rem;
   outline: none;
   position: relative;
@@ -78,7 +80,7 @@ h2, .h2 {
   height: 8.4rem;
   width: 8.4rem;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: #c0f75b;
   background-image: url(../img/icon-play.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
@@ -93,7 +95,9 @@ h2, .h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 1.3rem;
   font-weight: 600;
-  color: rgba(255, 255, 255, 0.5);
+  color: #c0f75b;
+   margin-right: -210px;
+  margin-top: 125px;
   text-transform: uppercase;
   letter-spacing: .4rem;
   -webkit-transition: color 0.3s ease-in-out;
@@ -101,11 +105,11 @@ h2, .h2 {
 }
 
 .home-content__video .video-link:hover .video-text {
-  color: white;
+  color: #c0f75b;
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: #f50136;
+  background-color: #c0f75b;
 }
 
 /* Next & previous buttons */
@@ -1968,7 +1972,7 @@ footer .footer_social li a {
   text-align: center;
 }
 footer .footer_social li a:hover {
-  background-color: #f50136;
+  background-color: #c0f75b;
   color: #ffffff;
 }
 footer ul.instagram_list {

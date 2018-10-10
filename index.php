@@ -70,12 +70,12 @@
                             <strong class="cover-xl-text">Golf Cup</strong>
                             <p class="cover-date">
                                 27th-28th October 2018  - IIM Shillong
-                            </p>
+                            </p>-->
                           <!--register 
                             <a href="events.php" class=" btn btn-primary btn-rounded" >
                                 Register Now
-                            </a>
-							-->
+                            </a>-->
+							
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
         </div>
         <div class="cover_item"  style="background: url('images/na.jpg');">                      
             <div class="slider_content">
-                    <!-- <video loop muted autoplay src="assets/video/khlurthma17.mp4"> </video>     -->
+                    <!--<video loop muted autoplay src="video/teaser_GolfCup.mp4"> </video-->
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-center">
@@ -113,21 +113,19 @@
                             <p class="cover-date">
                                 <!-- 26th-27th October 2018  - IIM Shillong -->
                             </p>
-                            <!-- <a href="events.php" class=" btn btn-primary btn-rounded" >
-                                    Register today
-                            </a> -->
                             <div class="home-content__video">
 							
-							<video class="video-link" controls>
-  <source src="video/teaser_GolfCup.mp4" type="video/mp4">
+<!--<video class="video-link" controls>
+	<source src="video/teaser_GolfCup.mp4" type="video/mp4"> 
    <span class="video-icon"></span>
    <span class="video-text">Play Video</span>
 
- </video>
-                                   <!-- <a class="video-link" href="https://www.youtube.com/watch?v=1_nIJrVs4Qw" data-lity>
+ </video>-->
+
+                                   <a class="video-link" href="https://youtu.be/yRh2OBCe8NI" data-lity>
                                         <span class="video-icon"></span>
                                         <span class="video-text">Play Video</span>
-                                    </a> -->
+                                    </a>
                                 </div>
                         </div>
                     </div>
@@ -136,13 +134,13 @@
             
         </div>
     </div>
-   <!-- <div class="cover_nav">
+   <div class="cover_nav">
         <ol class="cover_dots">
             <li data-target="#home_carousel" class="active" data-slide-to="0"><span>1</span></li>
             <li  data-target="#home_carousel" data-slide-to="1"><span>2</span></li>
             <li  data-target="#home_carousel" data-slide-to="2"><span>3</span></li>
         </ol>
-    </div> -->
+    </div>
 </div>
 </section>
 
@@ -167,7 +165,7 @@
             </div>
 			 <div class="col-12 col-md-4 ">
 			 <h5 class="heading_Text"> Golf Cup Season 10</h5>
-                <p class="boundary_Text" style="text-align:justify">
+			 <p class="boundary_Text" style="text-align:justify">
                     The event was organized in association with the Department of Meghalaya Tourism,the title sponsor of this event since 2009. Golf Cup Season 10 was officially teed off by Shri Sabyasachi Hajara, Former CMD Shipping Corporation of India and current member of the Board of Governors of IIM Shillong in presence of the Director of the Institute, Prof. Amitabha De on 11th November, 2017. It was successfully concluded on 12th November 2017 with a Valedictory Ceremony in the presence of the Chairman of IIM Shillong Shri Shishir Bajoria. The game was organized on a stroke play format with players ranked on the basis of finishing the 18-hole course in the least number of strokes played along with Stableford calculations. The efforts put in by the students were well appreciated by all the attendees and everyone looked up to the event as the right platform to engage and interact with the each other.  
                 </p>
             </div>
@@ -296,9 +294,9 @@ be carried out throughout the year on every Saturday. The school students will a
 			 </div>
         
 			<div class= "pt50  justify-content-center " style="margin-left:500px">
-			 <a href="sponsor.php" class=" btn-Register  btn-rounded color-light" >
+			 <!--<a href="sponsor.php" class=" btn-Register  btn-rounded color-light" >
                                Click to associate
-                            </a>
+                            </a>-->
         </div>
 		
    
