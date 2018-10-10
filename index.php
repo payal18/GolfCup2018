@@ -149,7 +149,7 @@
     <div class="container">
         <div class="section_title">
             <h3 class="title">
-               IIM Shillong Golf Cup – Season 11
+               IIM Shillong Golf Cup - Season 11
             </h3>
         </div>
         <div class="row justify-content-center ">
