@@ -1824,8 +1824,9 @@ header .logo img {
   margin-right: -15px;
 }
 header ul.menu li a.nav-link {
-  padding: 20px 12px !important;
-  font-size: 12px;
+  padding: 30px 12px !important;
+  font-size: 18px;
+  font-family: Helvetica;
   letter-spacing: 1px;
   font-weight: 600;
   display: block;

@@ -2,38 +2,6 @@
         <div class="container">
             <div class="row justify-content-center">
     
-                <div class="col-md-4 col-12">
-                    <div class="footer_box">
-                        <div class="">
-                            <div class="">
-                                <img src="assets/img/mascot/Golf_Cup_MAscot.png" height=110px alt="evento">
-                            </div>
-                        </div>
-                        <div class="footer_box_body">
-                                <p>
-                                       IIM Shillong hosts various dignitaries, corporate stalwarts, bureaucrats, policy makers, and students from across B-schools who come together at one of Asia’s largest natural golf courses, the Gleneagles of the East, Shillong.<br>Like share and subscribe.</p>
-                                    
-                            <ul class="footer_social">
-                                <li>
-                                    <a href="https://www.facebook.com/golfcup.iimshillong/"><i class="ion-social-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/IIMShillong"><i class="ion-social-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/iimshillong/?hl=en"><i class="ion-social-instagram"></i></a>
-                                </li>
-								<li>
-                                    <a href="https://www.linkedin.com/school/indian-institute-of-management-shillong/"><i class="ion-social-linkedin"></i></a>
-                                </li>
-								<li>
-                                    <a href="https://www.youtube.com/channel/UCzZFovQiWW0yKtY9P2dbH4A"><i class="ion-social-youtube"></i></a>
-                                </li>
-								
-                            </ul>
-                        </div>
-                    </div>
-                </div>
     
                 <div class="col-12 col-md-4">
                     <div class="footer_box">
@@ -74,12 +42,114 @@
                                         <img src="assets/img/bg/abc.png" alt="facebook">
                                     </a>
                                 </li>
+								<li>
+                                    <a href="https://www.facebook.com/IIM.Shillong/videos/2107482860753/">
+                                        <img src="assets/img/Archieves/c.png" alt="facebook">
+                                    </a>
+                                </li>
+								<li>
+                                    <a href="https://www.facebook.com/IIM.Shillong/videos/2107482860753/">
+                                        <img src="assets/img/bg/abc.png" alt="facebook">
+                                    </a>
+                                </li>
+								<li>
+                                    <a href="https://www.facebook.com/IIM.Shillong/videos/2107482860753/">
+                                        <img src="images/bn.jpg" alt="facebook">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>	
+				
+				                <div class="col-md-4 col-12">
+                    <div class="footer_box">
+                        <div class="">
+                            <div class="">
+                                <img src="assets/img/mascot/Golf_Cup_MAscot.png" height=110px alt="evento">
+                            </div>
+                        </div>
+                        <div class="footer_box_body">
+                                <p style="color: #838383;">
+                                       IIM Shillong hosts various dignitaries, corporate stalwarts, bureaucrats, policy makers, and students from across B-schools who come together at one of Asia’s largest natural golf courses, the Gleneagles of the East, Shillong.<br>Like share and subscribe.</p>
+                                  
+                            <ul class="footer_social">
+                                <li>
+                                    <a href="https://www.facebook.com/golfcup.iimshillong/"><i class="ion-social-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/IIMShillong"><i class="ion-social-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/iimshillong/?hl=en"><i class="ion-social-instagram"></i></a>
+                                </li>
+								<li>
+                                    <a href="https://www.linkedin.com/school/indian-institute-of-management-shillong/"><i class="ion-social-linkedin"></i></a>
+                                </li>
+								<li>
+                                    <a href="https://www.youtube.com/channel/UCzZFovQiWW0yKtY9P2dbH4A"><i class="ion-social-youtube"></i></a>
+                                </li>
+								
                             </ul>
                         </div>
                     </div>
                 </div>
+				
+				<div class = "col-12 col-md-4">
+							<div class="footer_box">
+								<div class="footer_header">
+									<h4 class="footer_title">
+									VIDEO
+									</h4>
+								</div>
+							    <div class="footer_box_body">
+									<div class="page">
+										<p style="color: #838383;"><a href="#media-popup" data-media="//www.youtube.com/embed/yRh2OBCe8NI">Season 11 - Teasure</a></p>
+									
+									<div class="popup" id="media-popup" >
+										<iframe width="300" height="170" align= "center" scroll="auto" src="" frameborder="0" allowfullscreen></iframe>
+									</div>
+									</div>
+								</div>
+							</div>
+				</div>
+				
+				
             </div>
             
         </div>
+	<script src="assets/js/jquery.min.js"></script>
+
+								<script>
+							$("[data-media]").on("click", function(e) {
+								e.preventDefault();
+								var $this = $(this);
+								var videoUrl = $this.attr("data-media");
+								var popup = $this.attr("href");
+								var $popupIframe = $(popup).find("iframe");
+								
+								$popupIframe.attr("src", videoUrl);
+								
+								$this.closest(".page").addClass("show-popup");
+							});
+
+							$(".popup").on("click", function(e) {
+								e.preventDefault();
+								e.stopPropagation();
+								
+								$(".page").removeClass("show-popup");
+							});
+
+							$(".popup > iframe").on("click", function(e) {
+								e.stopPropagation();
+							});
+							</script>
+							<script>
+							$("#cboxPrevious").hide();
+							$("#cboxNext").hide
+							</script>
+
+	
+	
     </footer>
    

@@ -8,7 +8,7 @@
     
     <title> Golf Cup </title>
     <!-- ========== Favicon Ico ========== -->
-    <!--<link rel="icon" href="fav.ico">-->
+    <link rel="icon" href="assets/img/mascot/Golf_Cup_MAscot.png" type="image/x-icon">
     <!-- ========== STYLESHEETS ========== -->
     <!-- Bootstrap CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +59,7 @@
 <section id="home" class="home-cover">
     <div id ="home_carousel" data-ride="carousel">
     <div class="cover_slider owl-carousel owl-theme" >
-        <div class="cover_item" style="background: url('images/nb.jpg');">
+        <div class="cover_item" style="background: url('images/nm.jpg');">
              <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">
@@ -69,13 +69,8 @@
                             </h2>
                             <strong class="cover-xl-text">Golf Cup</strong>
                             <p class="cover-date">
-                                27th-28th October 2018  - IIM Shillong
-                            </p>-->
-                          <!--register 
-                            <a href="events.php" class=" btn btn-primary btn-rounded" >
-                                Register Now
-                            </a>-->
-							
+                                27th - 28th October 2018  - IIM Shillong
+                            </p>							
                         </div>
                     </div>
                 </div>
@@ -89,12 +84,7 @@
                             <h1 class="cover-title">
                                 Attract, Engage & Golf
                             </h1>
-                            <!-- <strong class="cover-xl-text">Khlur-thma</strong>
-                            <p class="cover-date">
-                                26th-27th October 2018  - IIM Shillong.
-                            </p> -->
-                            <p><br></p>
-                           
+                            <p><br></p>                         
                         </div>
                     </div>
                 </div>
@@ -106,13 +96,6 @@
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-center">
-                            <h2 class="cover-title">
-                                <!-- Prepare yourself for -->
-                            </h2>
-                            <!-- <strong class="cover-xl-text">Khlur-thma</strong> -->
-                            <p class="cover-date">
-                                <!-- 26th-27th October 2018  - IIM Shillong -->
-                            </p>
                             <div class="home-content__video">
 							
 <!--<video class="video-link" controls>
@@ -134,12 +117,12 @@
             
         </div>
     </div>
-   <div class="cover_nav">
+   <!--<div class="cover_nav">
         <ol class="cover_dots">
             <li data-target="#home_carousel" class="active" data-slide-to="0"><span>1</span></li>
             <li  data-target="#home_carousel" data-slide-to="1"><span>2</span></li>
             <li  data-target="#home_carousel" data-slide-to="2"><span>3</span></li>
-        </ol>
+        </ol>-->
     </div>
 </div>
 </section>
@@ -156,26 +139,23 @@
             <div class="col-12 col-md-4 ">
 			
 			<h5 class="heading_Text"> Golf Cup Season 11</h5>
-                <p class="boundary_Text" style="text-align:justify;">
-				
-                   The IIM Shillong Golf Cup offers a one of its kind experience and blends together a golf tournament, corporate discussions, knowledge workshops and networking dinners where corporate leaders, academicians, bureaucrats and other thought leaders come together to deliberate happenings across the business world.
-                 Every year the event hosts various dignitaries, corporate stalwarts, bureaucrats, policy makers, and students from across B-schools who come together at one of Asia’s largest natural, and wettest golf courses, the Gleneagles of the East, Shillong.
+                <p class="boundary_Text" style="text-align:justify;">		
+                 The IIM Shillong Golf Cup offers a one of its kind experience and blends together a golf tournament, corporate discussions, knowledge workshops and networking dinners where corporate leaders, academicians, bureaucrats and other thought leaders come together to deliberate happenings across the business world.
+                 Every year the event hosts various dignitaries, corporate stalwarts, bureaucrats, policy makers, and students from across B-schools who come together at one of Asia's largest natural, and wettest golf courses, the Gleneagles of the East, Shillong.
 				 IIM Shillong is the first and only B-School to host a golf tournament with a focussed aim of bringing together leaders from various business domains to share knowledge with budding managers on the golfing greens.
+				 <br /> <br />
+				 <br /> <br /> 
 				 </p>
+				 
             </div>
 			 <div class="col-12 col-md-4 ">
 			 <h5 class="heading_Text"> Golf Cup Season 10</h5>
 			 <p class="boundary_Text" style="text-align:justify">
-                    The event was organized in association with the Department of Meghalaya Tourism,the title sponsor of this event since 2009. Golf Cup Season 10 was officially teed off by Shri Sabyasachi Hajara, Former CMD Shipping Corporation of India and current member of the Board of Governors of IIM Shillong in presence of the Director of the Institute, Prof. Amitabha De on 11th November, 2017. It was successfully concluded on 12th November 2017 with a Valedictory Ceremony in the presence of the Chairman of IIM Shillong Shri Shishir Bajoria. The game was organized on a stroke play format with players ranked on the basis of finishing the 18-hole course in the least number of strokes played along with Stableford calculations. The efforts put in by the students were well appreciated by all the attendees and everyone looked up to the event as the right platform to engage and interact with the each other.  
+                    The event was organized in association with the Department of Meghalaya Tourism, the title sponsor of this event since 2009. Golf Cup Season 10 was officially teed off by Shri Sabyasachi Hajara, Former CMD Shipping Corporation of India and current member of the Board of Governors of IIM Shillong in presence of the Director of the Institute, Prof. Amitabha De on 11th November, 2017. It was successfully concluded on 12th November 2017 with a Valedictory Ceremony in the presence of the Chairman of IIM Shillong Shri Shishir Bajoria. The game was organized on a stroke play format with players ranked on the basis of finishing the 18-hole course in the least number of strokes played along with Stableford calculations. The efforts put in by the students were well appreciated by all the attendees and everyone looked up to the event as the right platform to engage and interact with the each other.  
                 </p>
             </div>
 			 <div class="col-12 col-md-4 ">
-<!-- <h5 class="heading_Text"> About Golf Cup</h5>
-                <p class="boundary_Text">
-                   The Annual IIM Shillong Golf Cup may also be seen as a platform that provides participants of IIM Shillong with hands on experience in running operations towards successful conduct and completion.
-The tournament, first of its kind for any business school in India, is a unique and well-woven event that facilitates industry- academia participation and encourages professionals to “Look East”.
-The Golf Cup, sees keen involvement from state government ministers from across the North East, with the first day of the tournament dedicated to the local golfers and government officials. The second day sees the leading figures of the industry competing against each other and displaying exemplary sportsmanship. The event concludes with a gala ceremony concluding in the prize- distribution ceremony. The event is also embellished with a cultural show, with ethnic dance performances from across the north east, showcasing national multiculturalism and pluralism.
- </p> -->
+
  <article>
                     <div class="fb-page" data-href="https://www.facebook.com/golfcup.iimshillong/" data-tabs="timeline" data-width="400" data-height="400"
                         data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true">
@@ -191,9 +171,25 @@ The Golf Cup, sees keen involvement from state government ministers from across 
 
      
 </section>
+
+<!--event countdown -->
+<section class="bg-img pt70 pb70" style="background-image: url('images/n1.jpg');">
+    <div class="overlay_dark"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+                <h4 class="mb30 text-center" style="font-family: Helvetica; color: #c0f75b;">Counter until the big event</h4>
+                <div class="countdown-base"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
 <!--highlights about the event end -->
 
-<section class=" pb100">
+<section class=" pt100 pb100">
     <div class="container">
         <div class="section_title">
             <h3 class="title">
@@ -214,9 +210,9 @@ The Golf Cup, sees keen involvement from state government ministers from across 
 			 <h5 class="heading_Text"> Student Category</h5>
                 <p class="boundary_Text" style="text-align:justify">
                     IIM Shillong Amateur Golf Cup Season 11 will include a separate
-category for student golfers from across the country. This will
+category for student from across the country. This will
 serve as a platform for students from across the country to
-experience the rich heritage and natural beauty of Meghalaya.Through this initiative, Golf Cup plans to encourage and breed
+experience the rich heritage and natural beauty of Meghalaya. Through this initiative, Golf Cup plans to encourage and breed
 the Golfing sprit in Meghalaya.</p>
             </div>
 			 <div class="col-12 col-md-4 ">
@@ -233,20 +229,6 @@ be carried out throughout the year on every Saturday. The school students will a
 
      
 </section>
-
-<!--event countdown -->
-<section class="bg-img pt70 pb70" style="background-image: url('assets/img/Archieves/a.png');">
-    <div class="overlay_dark"></div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-10">
-                <h4 class="mb30 text-center color-light">Counter until the big event</h4>
-                <div class="countdown-base"></div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 
 <!--brands section -->
