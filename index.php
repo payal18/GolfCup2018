@@ -178,7 +178,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10">
-                <h4 class="mb30 text-center" style="font-family: Helvetica; color: #c0f75b;">Counter until the big event</h4>
+                <h4  class="mb30 text-center" style="font-family: Helvetica; color: #c0f75b;">Counter until the big event</h4>
                 <div class="countdown-base"></div>
             </div>
         </div>
