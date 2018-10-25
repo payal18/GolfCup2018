@@ -241,7 +241,9 @@ be carried out throughout the year on every Saturday. The school students will a
         </div>
         
         <div class="brand_carousel owl-carousel">
-            <div class="brand_item text-center">
+		
+		
+		  <div class="brand_item text-center">
                 <img src="assets/img/brands/mt.png" alt="brand">
             </div>
             <div class="brand_item text-center">
@@ -261,9 +263,7 @@ be carried out throughout the year on every Saturday. The school students will a
              <div class="brand_item text-center">
                 <img src="assets/img/brands/ey.png" alt="brand">
             </div>
-			 <div class="brand_item text-center">
-                <img src="assets/img/brands/ub.png" alt="brand">
-            </div>
+			
             <div class="justify-content-center align-items-center">
                 <img src="assets/img/brands/ubi.png" alt="brand" vspace="30">
             </div>
@@ -273,6 +273,36 @@ be carried out throughout the year on every Saturday. The school students will a
 			<div class="justify-content-center align-items-center" vspace="50">
                 <img src="assets/img/brands/vm.png" alt="brand">
             </div>
+		
+		 <div class="brand_item text-center">
+                <img src="assets/img/brands/Uber.png" alt="brand">
+            </div>
+            <div class="brand_item text-center">
+                <img src="assets/img/brands/a.png" alt="brand" >
+            </div>
+
+             <div class="brand_item text-center">
+                <img src="assets/img/brands/oo.png" alt="brand">
+            </div>
+			 <div class="brand_item text-center">
+                <img src="assets/img/brands/RedBull.png" alt="brand">
+            </div>
+            <div class="brand_item text-center">
+                <img src="assets/img/brands/at.png" alt="brand" >
+            </div>
+
+             <div class="brand_item text-center">
+                <img src="assets/img/brands/BC.png" alt="brand">
+            </div>
+			 <div class="brand_item text-center">
+                <img src="assets/img/brands/mithas.png" alt="brand">
+            </div>
+           
+			
+			
+			
+			
+          
 			 </div>
         
 			<div class= "pt50  justify-content-center " style="margin-left:500px">
